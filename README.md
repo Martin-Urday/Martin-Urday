@@ -66,6 +66,14 @@ Modelo de clasificación para predecir si un cliente caerá en morosidad grave e
 
 `Machine Learning` `Clasificación` `EDA` `Feature Engineering` `Desbalance de clases`
 
+### 📊 [People Analytics — Dashboard RRHH](https://github.com/Martin-Urday/people-analytics-powerbi)
+| Tecnologías utilizadas: Power BI · Power Query · DAX · Data Modeling
+
+Análisis estratégico de RRHH para 3,000 empleados. Integración de 4 fuentes de datos reales para medir Engagement (59%), Satisfacción Laboral (60%) y Desempeño por departamento.
+
+`People Analytics` `Power BI` `DAX` `Dashboard` `RRHH`
+
+---
 ---
 
 > 🔧 *Más proyectos en construcción... stay tuned!* 🚧
