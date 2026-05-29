@@ -73,7 +73,13 @@ Análisis estratégico de RRHH para 3,000 empleados. Integración de 4 fuentes d
 
 `People Analytics` `Power BI` `DAX` `Dashboard` `RRHH`
 
----
+### 📺 [Netflix Content Analysis Dashboard — Tableau Public](https://github.com/Martin-Urday/netflix-tableau-panel)
+
+| Tecnologías utilizadas: Tableau Public · Mapbox · Kaggle Dataset
+
+Análisis exploratorio del catálogo completo de Netflix (8,780 títulos). Dashboard interactivo con 8 vistas integradas: mapa mundial de origen del contenido, evolución temporal 2012–2022, composición por tipo (69.7% películas vs 30.3% series) y análisis de géneros dominantes con series de tiempo.
+
+`Tableau` `Data Visualization` `Series Temporales` `Mapas Interactivos` `Storytelling`---
 ---
 
 > 🔧 *Más proyectos en construcción... stay tuned!* 🚧
