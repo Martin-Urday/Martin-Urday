@@ -18,7 +18,7 @@
 
 ## 🚀 Sobre mí
 
-Soy **Analista de Datos Junior** con base en **Lima, Perú** 🇵🇪, apasionado por transformar datos crudos en decisiones inteligentes. Me gusta construir proyectos end-to-end: desde la limpieza de datos hasta modelos predictivos y dashboards que cuentan historias claras.
+Soy **Egresado de Administracion de Empresas y Analista de Datos Junior** con base en **Lima, Perú** 🇵🇪, apasionado por transformar datos crudos en decisiones inteligentes. Me gusta construir proyectos end-to-end: desde la limpieza de datos hasta modelos predictivos y dashboards que cuentan historias claras.
 
 - 🔭 Actualmente trabajando en proyectos de **análisis de riesgo crediticio** y predicción con ML
 - 🌱 Profundizando en **Machine Learning** y visualización avanzada de datos
