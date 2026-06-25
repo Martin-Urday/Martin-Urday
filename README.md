@@ -73,13 +73,12 @@ Análisis estratégico de RRHH para 3,000 empleados. Integración de 4 fuentes d
 
 `People Analytics` `Power BI` `DAX` `Dashboard` `RRHH`
 
-### 📺 [Netflix Content Analysis Dashboard — Tableau Public](https://github.com/Martin-Urday/netflix-tableau-panel)
+### 🥗 [Nutricionista Inteligente (NutriIA) — Asistente Clínico con IA](https://nutricionia-martin-urday.streamlit.app)
+   | Tecnologías utilizadas: Python · Streamlit · OpenAI API · JSON Estructurado · Caching
 
-| Tecnologías utilizadas: Tableau Public · Mapbox · Kaggle Dataset
+   Aplicación web de precisión que automatiza el diagnóstico metabólico cruzando niveles de glucosa con el momento de la medición. El sistema optimiza planes alimenticios adaptados dinámicamente a determinantes socioeconómicos (región y presupuesto canasta básica) y cuenta con una capa de presentación adaptativa según el nivel de alfabetización del usuario.
 
-Análisis exploratorio del catálogo completo de Netflix (8,780 títulos). Dashboard interactivo con 8 vistas integradas: mapa mundial de origen del contenido, evolución temporal 2012–2022, composición por tipo (69.7% películas vs 30.3% series) y análisis de géneros dominantes con series de tiempo.
-
-`Tableau` `Data Visualization` `Series Temporales` `Mapas Interactivos` `Storytelling`---
+   `Generative AI` `Python` `Streamlit` `Data-Driven` `Estructuración JSON`
 ---
 
 > 🔧 *Más proyectos en construcción... stay tuned!* 🚧
@@ -106,6 +105,7 @@ skills_en_progreso = {
     "Machine Learning": ["Modelos de ensamble", "Tuning de hiperparámetros", "Pipelines con Sklearn"],
     "SQL Avanzado":     ["Window functions", "CTEs", "Optimización de queries"],
     "Visualización":    ["Storytelling con datos", "Dashboards interactivos en Power BI"],
+    "Inteligencia Artificial": [Creacion de aplicacion y Marketing]
 }
 ```
 
