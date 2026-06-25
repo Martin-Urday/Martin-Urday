@@ -77,8 +77,9 @@ Análisis estratégico de RRHH para 3,000 empleados. Integración de 4 fuentes d
    | Tecnologías utilizadas: Python · Streamlit · OpenAI API · JSON Estructurado · Caching
 
    Aplicación web de precisión que automatiza el diagnóstico metabólico cruzando niveles de glucosa con el momento de la medición. El sistema optimiza planes alimenticios adaptados dinámicamente a determinantes socioeconómicos (región y presupuesto canasta básica) y cuenta con una capa de presentación adaptativa según el nivel de alfabetización del usuario.
+   
+`Python` `Streamlit` `Data-Driven` `Generative AI`Estructuración JSON`
 
-   `Generative AI` `Python` `Streamlit` `Data-Driven` `Estructuración JSON`
 ---
 
 > 🔧 *Más proyectos en construcción... stay tuned!* 🚧
