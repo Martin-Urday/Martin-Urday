@@ -73,7 +73,7 @@ Análisis estratégico de RRHH para 3,000 empleados. Integración de 4 fuentes d
 
 `People Analytics` `Power BI` `DAX` `Dashboard` `RRHH`
 
-### 🥗 [Nutricionista Inteligente (NutriIA) — Asistente Clínico con IA](https://nutricionia-martin-urday.streamlit.app)
+### 🥗 [Nutricionista Inteligente (NutriIA) — Asistente Clínico Gratuito con IA](https://nutricionia-martin-urday.streamlit.app)
    | Tecnologías utilizadas: Python · Streamlit · OpenAI API · JSON Estructurado · Caching
 
    Aplicación web de precisión que automatiza el diagnóstico metabólico cruzando niveles de glucosa con el momento de la medición. El sistema optimiza planes alimenticios adaptados dinámicamente a determinantes socioeconómicos (región y presupuesto canasta básica) y cuenta con una capa de presentación adaptativa según el nivel de alfabetización del usuario.
