@@ -78,7 +78,7 @@ Análisis estratégico de RRHH para 3,000 empleados. Integración de 4 fuentes d
 
    Aplicación web de precisión que automatiza el diagnóstico metabólico cruzando niveles de glucosa con el momento de la medición. El sistema optimiza planes alimenticios adaptados dinámicamente a determinantes socioeconómicos (región y presupuesto canasta básica) y cuenta con una capa de presentación adaptativa según el nivel de alfabetización del usuario.
    
-`Python` `Streamlit` `Data-Driven` `Generative AI``Estructuración JSON`
+`Python` `Streamlit` `Data-Driven` `Generative AI` `Estructuración JSON`
 
 ---
 
